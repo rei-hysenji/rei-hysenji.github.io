@@ -6,6 +6,7 @@ body {
     rgb(77, 56, 80),
     rgb(32, 32, 32)
   );
+  background-color: black;
   font-size: medium;
   font-family: quicksandfont, "Times New Roman", Times, Helvetica; /*llojet e shkrimit*/
   font-style: normal;
